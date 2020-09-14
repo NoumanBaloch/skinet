@@ -1,0 +1,7 @@
+<----COMMANDS TO GENERATE THE DOTNET CORE PROJECT-->
+
+1) mkdir project_name
+2) dotnet new sln
+3) dotnet new webapi -o API
+4) dotnet sln add API
+5) dotnet sln list
